@@ -7,6 +7,9 @@
 .row_posters::-webkit-scrollbar{
 display:none;
 }
+.header_style{
+    color:aliceblue;
+}
 .row_poster{
 width:100%;
 object-fit: contain;

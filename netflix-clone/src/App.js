@@ -5,9 +5,12 @@ import requests from "./requests";
 import Banner from "./Banner";
 
 function App() {
+  console.log(process.env.REACT_APP_API_KEY);
   return (
     <div className="App">
-      <h1>HELLO FRONTEND DEVELOPERS</h1>
+      <div className="header-container">
+        <img src="logo.png" alt="Netflix Logo" className="netflix-logo" />
+      </div>
       <Banner />
       <Row
         title={"NETFLIX ORIGINALS"}
