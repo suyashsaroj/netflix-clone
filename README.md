@@ -176,9 +176,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/suyash_sar0j) - email@example.com
+Your Name - [@syash_sar0j](https://twitter.com/suyash_sar0j) - suyashsaroj76@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/suyashsaroj/netflix-clone)
+Project Link: [https://github.com/suyashsaroj/netflix-clone](https://github.com/suyashsaroj/netflix-clone)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
