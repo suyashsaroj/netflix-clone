@@ -64,7 +64,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][![image](https://github.com/suyashsaroj/netflix-clone/assets/48505375/83c49076-393d-46d7-b9bc-5509bda33dd9)
+[Nextflix][![image](https://github.com/suyashsaroj/netflix-clone/assets/48505375/83c49076-393d-46d7-b9bc-5509bda33dd9)
 ](https://sysh-ntflix.web.app/)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
